@@ -1,10 +1,4 @@
 
-##《python自动化运维：技术与最佳实践》附带示例及案例源码
-
-- 【国内镜像】（JD云汇）[https://code.jd.com/yorkoliu/pyauto](https://code.jd.com/yorkoliu/pyauto)
-- 【国外镜像】（Github）[https://github.com/yorkoliu/pyauto](https://github.com/yorkoliu/pyauto)
-- 【源码打包下载】（zip）[http://share.weiyun.com/e438cd6fe7e621328c1f4f5494ab4b21](http://share.weiyun.com/e438cd6fe7e621328c1f4f5494ab4b21)
-
 ##章节列表
 * 第一章　系统基础信息模块详解
 * 第二章　业务服务监控详解
